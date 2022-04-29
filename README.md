@@ -20,4 +20,4 @@ node run server
 - Para consultar todos los estudiantes `localhost:3000/v1/students`
 - Para consultar los emails de estudiantes certificados `localhost:3000/v1/students/certificates/emails`
 - Para consultar los emails de estudiantes no certificados `localhost:3000/v1/students/nocertificates/emails`
-- Para consultar estudiantes con más de 100 créditos `localhost:3000/v1/students/credits/500`
+- Para consultar estudiantes con más de 500 créditos `localhost:3000/v1/students/credits/500`
